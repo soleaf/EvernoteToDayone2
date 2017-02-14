@@ -1,6 +1,6 @@
 # EvernoteToDayone2
-Move notes from Evernote to DayOne2 on Mac
-It just simple python script.
+Move notes with photos from Evernote to DayOne2 on Mac
+- It just simple python script.
 
 ## Requirement
 
