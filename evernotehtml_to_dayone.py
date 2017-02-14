@@ -9,7 +9,7 @@ PROCEDURE
 3 ) Change Format to 'HTML' and save anywhere
 4 ) To install DayOne2 CLI run 'sudo /Applications/Day\ One.app/Contents/Resources/install_cli.sh' on Terminal
 5 ) Run 'python evernotehtml_to_dayone.py' on Terminal app
-    If you get some error for not found library 'BeautifulSoup', run 'pip install BeautifulSoup'
+    If you get some error for not found library 'BeautifulSoup', run 'pip install beautifulsoup4'
 """
 
 import os
