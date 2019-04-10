@@ -15,7 +15,7 @@ PROCEDURE
 import os
 import urllib
 import sys
-import BeautifulSoup
+from bs4 import BeautifulSoup
 from subprocess import call
 
 
